@@ -8,18 +8,12 @@ Whether you're a student, traveler, or multilingual communicator, Transly offers
 It serves as the main interface where users can input text, choose source and target languages, and receive real-time translations. It includes options to copy, share, or listen to the translated text, enhancing accessibility. (https://github.com/Meena-ksh1/Transly/issues/1#issue-3093228956)
 
 ### Profile Page
-It allows users to view and manage their personal details, giving a personalized touch to the app experience. 
+It allows users to view and manage their personal details, giving a personalized touch to the app experience. (https://github.com/Meena-ksh1/Transly/issues/4#issue-3093237043)
 
 ### Translation History Page
-In this, users can easily revisit their previous translations, with each entry saved and displayed in a clean, scrollable list for convenience.
+In this, users can easily revisit their previous translations, with each entry saved and displayed in a clean, scrollable list for convenience.(https://github.com/Meena-ksh1/Transly/issues/3#issue-3093235977)
 
 ### Lastly, the Settings Page
-It enables users to customize app prefernces, including language options, theme settings, and notification controls. 
+It enables users to customize app prefernces, including language options, theme settings, and notification controls. (https://github.com/Meena-ksh1/Transly/issues/2#issue-3093233184)
 
 Each page is built with a clean and modern UI, prioritizing ease of use, accessibilty, and performance accross devices.
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

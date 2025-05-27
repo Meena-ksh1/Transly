@@ -5,7 +5,7 @@ Whether you're a student, traveler, or multilingual communicator, Transly offers
 ## Getting Started
 
 ### Home Page
-It serves as the main interface where users can input text, choose source and target languages, and receive real-time translations. It includes options to copy, share, or listen to the translated text, enhancing accessibility. 
+It serves as the main interface where users can input text, choose source and target languages, and receive real-time translations. It includes options to copy, share, or listen to the translated text, enhancing accessibility. (https://github.com/Meena-ksh1/Transly/issues/1#issue-3093228956)
 
 ### Profile Page
 It allows users to view and manage their personal details, giving a personalized touch to the app experience. 
